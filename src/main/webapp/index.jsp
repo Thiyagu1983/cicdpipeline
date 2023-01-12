@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Github how are you?</h2>
+<h2>Hello Github ?</h2>
 </body>
 </html>
